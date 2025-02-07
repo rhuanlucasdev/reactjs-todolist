@@ -3,10 +3,9 @@
 A simple and responsive To-Do application built with **React.js** and **Vite**. This app allows users to **Create**, **Read**, **Update**, and **Delete** tasks. It’s a perfect starter project for understanding the basics of React and CRUD operations.
 
 ## 🚀 Features
-- Add new tasks with a title and description.  
+- Add new tasks.  
 - Edit existing tasks.  
 - Delete tasks when completed.  
-- Mark tasks as completed/incomplete.  
 - Responsive design for mobile and desktop.  
 
 ## 🛠️ Technologies Used
