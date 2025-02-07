@@ -1,8 +1,19 @@
-# React + Vite
+# 📝 Simple CRUD To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive To-Do application built with **React.js** and **Vite**. This app allows users to **Create**, **Read**, **Update**, and **Delete** tasks. It’s a perfect starter project for understanding the basics of React and CRUD operations.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Add new tasks with a title and description.  
+- Edit existing tasks.  
+- Delete tasks when completed.  
+- Mark tasks as completed/incomplete.  
+- Responsive design for mobile and desktop.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- **React.js** (via Vite)  
+- **CSS Modules / Tailwind CSS (optional)**  
+- **React Hooks (useState, useEffect)**
+
+## 💥 Live Demo
+
+See it in action [HERE](https://reactjs-todolist-rhuan.netlify.app/).
